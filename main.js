@@ -67,7 +67,7 @@ var topSong = [
         nameArtist:'Amee',
         nameFile:'amee/shaynang.mp3',
         time:'3:28',
-        img:'amee/shaynang.jpg',
+        img:'amee/em1.jpg',
         
     },
     {
