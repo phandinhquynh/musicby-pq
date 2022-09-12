@@ -724,3 +724,4 @@ function playAnotherSong(index,i){
     isPlaying =true;
     playMusic();
 }
+// thêm dark mode
